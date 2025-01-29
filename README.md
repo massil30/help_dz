@@ -1,8 +1,9 @@
 # help_dz
 
-A new Flutter application.
+A new Flutter application ++ Firebase as Backend.
 
 ## Getting Started
+Help_Dz is a platform that connects people with charities, making it easier to donate, volunteer, and support causes that matter.
 
 This project is a starting point for a Flutter application.
 
